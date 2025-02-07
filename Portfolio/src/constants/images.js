@@ -36,6 +36,7 @@ import SA from "../assets/SA.jpg";
 import SAS from "../assets/SAS.jpg";
 import PN from "../assets/PN.png";
 import Logo2 from "../assets/Logo2.png";
+import ProfilePic2 from "../assets/ProfilPic2.png";
 
 import circle from "../assets/circle.svg";
 import logo from "../assets/logo.png";
@@ -51,6 +52,7 @@ export default {
   email,
   mobile,
   api,
+  ProfilePic2,
   MERN,
   Logo2,
   Tailwind,
